@@ -2,6 +2,6 @@ package com.mahmoudhamdyae.pushup;
 
 public class TestAddFile {
 
-    String Test = "Test";
+    String Test = "TestBranch02";
     boolean b = true;
 }
